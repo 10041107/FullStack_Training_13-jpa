@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21213f55-bbfe-4050-a78d-e27b036b3b48" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bmxrHTtOchbzJFEiVqLZL0Ostw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohgiraffers.section03.persistencecontext" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.A_EntityLifeCycleTests.병합_merge_삽입_테스트">
+    <configuration name="A_EntityLifeCycleTests.준영속성_clear_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap01-persitence-context.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section03.persistencecontext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section03.persistencecontext" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section03.persistencecontext.A_EntityLifeCycleTests" />
+      <option name="METHOD_NAME" value="준영속성_clear_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_EntityLifeCycleTests.병합_merge_수정_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap01-persitence-context.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section03.persistencecontext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section03.persistencecontext" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section03.persistencecontext.A_EntityLifeCycleTests" />
+      <option name="METHOD_NAME" value="병합_merge_수정_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_EntityLifeCycleTests.병합_merge_삽입_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap01-persitence-context.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section03.persistencecontext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section03.persistencecontext" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section03.persistencecontext.A_EntityLifeCycleTests" />
+      <option name="METHOD_NAME" value="병합_merge_삽입_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_EntityLifeCycleTests.삭제_remove_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap01-persitence-context.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section03.persistencecontext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section03.persistencecontext" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section03.persistencecontext.A_EntityLifeCycleTests" />
+      <option name="METHOD_NAME" value="삭제_remove_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_EntityLifeCycleTests.close_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap01-persitence-context.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section03.persistencecontext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section03.persistencecontext" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section03.persistencecontext.A_EntityLifeCycleTests" />
+      <option name="METHOD_NAME" value="close_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.A_EntityLifeCycleTests.병합_merge_삽입_테스트" />
+        <item itemvalue="JUnit.A_EntityLifeCycleTests.병합_merge_수정_테스트" />
+        <item itemvalue="JUnit.A_EntityLifeCycleTests.삭제_remove_테스트" />
+        <item itemvalue="JUnit.A_EntityLifeCycleTests.close_테스트" />
+        <item itemvalue="JUnit.A_EntityLifeCycleTests.준영속성_clear_테스트" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21213f55-bbfe-4050-a78d-e27b036b3b48" name="Changes" comment="" />
+      <created>1706834256593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706834256593</updated>
+      <workItem from="1706834257592" duration="14939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

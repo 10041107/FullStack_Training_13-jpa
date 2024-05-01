@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a60ddb96-5cfd-445f-a78d-0c5376faac61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bnakSHfiSXm8KhSVi4TyPX7ws9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/class/구로/13_JPA/chap02-mapping/src/test/java/com/ohgiraffers/section06/compositekey/subsection02/idclass&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\class\구로\13_JPA\chap02-mapping\src\test\java\com\ohgiraffers\section06\compositekey\subsection02\idclass" />
+      <recent name="D:\class\구로\13_JPA\chap02-mapping\src\test\java\com\ohgiraffers\section05\access\subsection02" />
+      <recent name="D:\class\구로\13_JPA\chap02-mapping\src\test\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ohgiraffers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohgiraffers.section05.access" />
+      <recent name="com.ohgiraffers.section04.enumtype" />
+      <recent name="com.ohgiraffers.section03.primaryKey.subsection02.table" />
+      <recent name="com.ohgiraffers.section03.primaryKey.subsection01.identity" />
+      <recent name="com.ohgiraffers.section02.column" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IdClassTests.아이디_클래스_사용한_복합키_테이블_매핑_테스트">
+    <configuration name="EmbeddedKeyTests.임베디드_아이디_사용한_복합키_테이블_매핑_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap02-mapping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section06.compositekey.subsection01.embedded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section06.compositekey.subsection01.embedded" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section06.compositekey.subsection01.embedded.EmbeddedKeyTests" />
+      <option name="METHOD_NAME" value="임베디드_아이디_사용한_복합키_테이블_매핑_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumTypeMappingTests.enum타입_매핑_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap02-mapping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section04.enumtype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section04.enumtype" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section04.enumtype.EnumTypeMappingTests" />
+      <option name="METHOD_NAME" value="enum타입_매핑_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldAccessTets.필드_접근_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap02-mapping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section05.access.subsection01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section05.access.subsection01" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section05.access.subsection01.FieldAccessTets" />
+      <option name="METHOD_NAME" value="필드_접근_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdClassTests.아이디_클래스_사용한_복합키_테이블_매핑_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap02-mapping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section06.compositekey.subsection02.idclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section06.compositekey.subsection02.idclass" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section06.compositekey.subsection02.idclass.IdClassTests" />
+      <option name="METHOD_NAME" value="아이디_클래스_사용한_복합키_테이블_매핑_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyAccessTets.필드_접근_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap02-mapping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section05.access.subsection02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.section05.access.subsection02" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section05.access.subsection02.PropertyAccessTets" />
+      <option name="METHOD_NAME" value="필드_접근_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IdClassTests.아이디_클래스_사용한_복합키_테이블_매핑_테스트" />
+        <item itemvalue="JUnit.EmbeddedKeyTests.임베디드_아이디_사용한_복합키_테이블_매핑_테스트" />
+        <item itemvalue="JUnit.PropertyAccessTets.필드_접근_테스트" />
+        <item itemvalue="JUnit.FieldAccessTets.필드_접근_테스트" />
+        <item itemvalue="JUnit.EnumTypeMappingTests.enum타입_매핑_테스트" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a60ddb96-5cfd-445f-a78d-0c5376faac61" name="Changes" comment="" />
+      <created>1706853440618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706853440618</updated>
+      <workItem from="1706853441910" duration="1710000" />
+      <workItem from="1707048792720" duration="618000" />
+      <workItem from="1707093005560" duration="14746000" />
+      <workItem from="1707179261362" duration="1466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
